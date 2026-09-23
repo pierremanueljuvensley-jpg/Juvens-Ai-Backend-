@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+PyJWT
+passlib[bcrypt]
+openai
+slowapi
+python-multipart
+pypdf
